@@ -19,6 +19,6 @@ After using pip to install the required libraries simply change the input and ou
 Below are examples of the script output showing a side-by-side display of the original images and their depth maps, with the depth statistics printed below each pair.
 
 ![Example Image 1](https://i.imgur.com/kFfO2Nt.png)
-![Example Image 2](https://imgur.com/kFfO2Nt)
+![Example Image 2](https://i.imgur.com/sJ4p8yp.png)
 
 
